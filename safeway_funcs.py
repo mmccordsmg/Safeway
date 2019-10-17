@@ -1,6 +1,8 @@
 import requests
 import json
 import jwt
+from datetime import datetime
+import uuid
 
 session = requests.Session()
 
@@ -96,39 +98,90 @@ def safeway_clip_coupons(coupons, mystore, token, coupontype):
 	)
 	cookies = {'swyConsumerDirectoryPro': token}
 	url="https://nimbus.safeway.com/Clipping1/services/clip/items?storeId=%s" % mystore
-	toclip=[]
-	for coupon in coupons:
-		if (coupontype == "personalized"):
-			toclip.append(
-				{
-						"clipType": "C",
-						"itemId": coupon["offerID"],
-						"itemType": "PD"
-				}
-			)
-			toclip.append(
-				{
-						"clipType": "L",
-						"itemId": coupon["offerID"],
-						"itemType": "PD"
-				}			
-			)
-		elif (coupontype == "manufacturer"):
-			toclip.append(
-				{
-						"clipType": "C",
-						"itemId": coupon["couponID"],
-						"itemType": "SC"
-				}
-			)
-			toclip.append(
-				{
-						"clipType": "L",
-						"itemId": coupon["couponID"],
-						"itemType": "SC"
-				}			
-			)
-	payload={"items": toclip}
-	r=session.post(url, data=json.dumps(payload), cookies=cookies)
-	print(r.text)
+	while len(coupons):
+		i=0
+		toclip=[]
+		while (len(coupons) and i<125):
+			coupon = coupons.pop()
+			if (coupontype == "personalized"):
+				toclip.append(
+					{
+							"clipType": "C",
+							"itemId": coupon["offerID"],
+							"itemType": "PD"
+					}
+				)
+				toclip.append(
+					{
+							"clipType": "L",
+							"itemId": coupon["offerID"],
+							"itemType": "PD"
+					}			
+				)
+			elif (coupontype == "manufacturer"):
+				toclip.append(
+					{
+							"clipType": "C",
+							"itemId": coupon["couponID"],
+							"itemType": "SC"
+					}
+				)
+				toclip.append(
+					{
+							"clipType": "L",
+							"itemId": coupon["couponID"],
+							"itemType": "SC"
+					}			
+				)
+			i+=1
+		payload={"items": toclip}
+		r=session.post(url, data=json.dumps(payload), cookies=cookies)
+		print(r.text)
 	return(True)
+
+def safeway_create_account(email, password, firstname, lastname, phone, preferredstore, zipcode):
+	global session
+	session.headers.update(
+		{
+					"content-type": "application/vnd.safeway.v1+json;charset=UTF-8",
+					"x-swy_banner": "safeway",
+					"x-ibm-client-secret": "Q8hD5aP8nU6mL6nC0yB6xC5lS0mP3lQ7fO7mU0qE3xI6oC5fO1",
+					"accept": "application/vnd.safeway.v1+json",
+					"x-ibm-client-id": "0576e73c-2fcf-43ed-b107-9866827f81b9",
+					"client_app_version": "7.5.3",
+					"x-swy-client-id": "mobile-ios-portal",
+					"x-swy_api_key": "0fdb13ac50972b700f8a9e352d8ea123414ae1f1.safeway.j4u.iphone",
+					"user-agent": "iphone",
+					"x-swy_version": "1.5",
+					"x-swy-correlation-id": str(uuid.uuid4()),
+					"x-swy-date": datetime.now().strftime("%a, %d %b %Y %H:%M:%S")
+		}
+	)
+	url = 'https://api-prod.safeway.com/abs/pub/api/uca/customers/register'
+	payload = {
+				"firstName": firstname,
+				"digitalReceipt": "N",
+				"preferences": {
+						"stores": [
+								{
+										"storePreference": "Preferred",
+										"storeId": preferredstore
+								}
+						],
+				"emailOffers": "Y"
+				},
+				"terms": "true",
+				"password": password,
+				"lastName": lastname,
+				"phone": [
+						{
+								"type": "mobile",
+								"number": phone
+						}
+				],
+			"zipCode": zipcode,
+			"emailId": email,
+			"clubCardNumber": ""
+	}
+	r=session.post(url, data=json.dumps(payload))
+	return(r.json().get("customerId"), r.json().get("clubCardNumber"))
