@@ -9,15 +9,10 @@ args = parser.parse_args()
 token = safeway_login(args.username, args.password)
 if token:
 	mystore = safeway_get_preferred_store(token)
-	coupons = safeway_get_coupons(mystore, token, "personalized")
+	coupons = safeway_get_coupons(mystore, token)
 	if coupons:
-		safeway_clip_coupons(coupons, mystore, token, "personalized")
+		safeway_clip_coupons(coupons, mystore, token)
 	else:
-		print("Error getting personalized coupon list!")
-	coupons = safeway_get_coupons(mystore, token, "manufacturer")
-	if coupons:
-		safeway_clip_coupons(coupons, mystore, token, "manufacturer")
-	else:
-		print("Error getting manufacturer coupon list!")
+		print("Error getting coupon list, or no coupons to clip!")
 else:
 	print("Login Failed!")
