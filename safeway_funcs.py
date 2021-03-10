@@ -1,8 +1,8 @@
 import requests
 import json
 import jwt
-from tetime import datetime
-import 
+from datetime import datetime
+import uuid
 from time import sleep
 
 session = requests.Session()
