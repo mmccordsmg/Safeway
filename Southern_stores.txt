@@ -1,0 +1,158 @@
+70 - Albertsons - 4000 Glade Rd - Colleyville - TX
+106 - Albertsons - 1155 N Main St - Euless - TX
+120 - Albertsons - 2678 Johnston St - Lafayette - LA
+135 - Albertsons - 4415 W 7th St - Texarkana - TX
+218 - Albertsons - 105 E Southfield Rd - Shreveport - LA
+226 - Albertsons - 100 E Taylor St - Sherman - TX
+232 - Albertsons - 3563 Alton Rd - Fort Worth - TX
+269 - Albertsons - 2150 N Josey Ln - Carrollton - TX
+296 - Tom Thumb - 6800 W Virginia Pkwy - McKinney - TX
+611 - Albertsons - 3710 State Line Ave - Texarkana - AR
+671 - United Supermarkets - 3317 N Midland Dr - Midland - TX
+672 - United Supermarkets - 1002 Andrews Hwy - Midland - TX
+709 - Albertsons - 2950 College Dr - Baton Rouge - LA
+712 - Albertsons - 9650 Airline Hwy - Baton Rouge - LA
+714 - Albertsons - 1801 W Thomas St - Hammond - LA
+716 - Albertsons - 200 W Crawford St - Denison - TX
+717 - Albertsons - 4060 Ryan St S - Lake Charles - LA
+719 - Albertsons - 4400 Ambassador Caffery - Lafayette - LA
+775 - Albertsons - 2863 Ambassador Caffery - Lafayette - LA
+1011 - Randalls - 14610 Memorial Dr - Houston - TX
+1012 - Randalls - 5219 FM 1960 W - Houston - TX
+1021 - Randalls - 3346 Hwy 6 S - Sugar Land - TX
+1031 - Randalls - 2931 Central City Blvd - Galveston - TX
+1041 - Randalls - 4800 W Bellfort - Houston - TX
+1057 - Randalls - 4540 Kingwood Dr - Kingwood - TX
+1061 - Randalls - 3131 W Holcombe Blvd - Houston - TX
+1066 - Randalls - 12850 Memorial Dr - Houston - TX
+1262 - Albertsons - 1300 Airport Freeway - Bedford - TX
+1311 - Albertsons - 7515 Perkins Rd - Baton Rouge - LA
+1540 - Tom Thumb - 3757 Forest Ln - Dallas - TX
+1773 - Randalls - 2225 Louisiana St - Houston - TX
+1776 - Randalls - 600 Kingwood Dr - Kingwood - TX
+1779 - Randalls - 2301 Ranch Rd 620 S - Lakeway - TX
+1780 - Tom Thumb - 1000 Keller Pkwy - Keller - TX
+1781 - Tom Thumb - 106 N Denton Tap Rd - Coppell - TX
+1783 - Tom Thumb - 2645 Arapaho Rd - Garland - TX
+1784 - Tom Thumb - 1501 Pioneer Rd - Mesquite - TX
+1785 - Tom Thumb - 1075 W FM 3040 - Lewisville - TX
+1786 - Tom Thumb - 4215 S Carrier Pkwy - Grand Prairie - TX
+1788 - Tom Thumb - 7801 Alma Dr - Plano - TX
+1789 - Tom Thumb - 101 Trophy Lake Dr - Trophy Club - TX
+1850 - Randalls - 9911 Brodie Ln - Austin - TX
+1854 - Tom Thumb - 4301 Cross Timbers Rd - Flower Mound - TX
+1858 - Randalls - 10228 W Broadway St - Pearland - TX
+1896 - Randalls - 1400 Cypress Creek Rd - Cedar Park - TX
+1925 - Tom Thumb - 8805 Lakeview Pkwy - Rowlett - TX
+1972 - Tom Thumb - 980 Hwy N 287 - Mansfield - TX
+1973 - Tom Thumb - 7000 Snider Plaza - Dallas - TX
+2051 - Randalls - 2951 Marina Bay Dr Suite B - League City - TX
+2471 - Randalls - 2727 Exposition Blvd - Austin - TX
+2475 - Randalls - 5311 Balcones Dr - Austin - TX
+2477 - Randalls - 3300 Bee Caves Rd - West Lake Hills - TX
+2480 - Randalls - 6600 Mopac Expy S - Austin - TX
+2481 - Randalls - 1500 W 35th St - Austin - TX
+2482 - Randalls - 8040 Mesa Dr - Austin - TX
+2484 - Randalls - 5721 Williams Dr - Georgetown - TX
+2485 - Randalls - 2025 W Ben White Blvd - Austin - TX
+2490 - Randalls - 10900 Research Blvd - Austin - TX
+2503 - Tom Thumb - 4001 Villanova St - Dallas - TX
+2526 - Tom Thumb - 819 Arapaho Rd - Richardson - TX
+2534 - Tom Thumb - 6333 E Mockingbird Ln - Dallas - TX
+2544 - Tom Thumb - 10455 N Central Expwy - Dallas - TX
+2554 - Tom Thumb - 3100 Independence Pkwy - Plano - TX
+2557 - Tom Thumb - 206 N Grand Ave - Gainesville - TX
+2561 - Tom Thumb - 925 Northwest Hwy - Garland - TX
+2570 - Tom Thumb - 5968 W Parker Rd - Plano - TX
+2574 - Tom Thumb - 3100 S Hulen St - Fort Worth - TX
+2578 - Tom Thumb - 2535 Firewheel Pkwy - Garland - TX
+2580 - Tom Thumb - 100 W Southlake Blvd - Southlake - TX
+2581 - Tom Thumb - 4848 Preston Rd - Frisco - TX
+2590 - Tom Thumb - 4112 N Josey - Carrollton - TX
+2595 - Tom Thumb - 3945 Legacy Dr - Plano - TX
+2609 - Tom Thumb - 612 Grapevine Hwy - Hurst - TX
+2636 - Randalls - 2051 Gattis School Rd - Round Rock - TX
+2642 - Tom Thumb - 5809 E Lovers Ln - Dallas - TX
+2643 - Tom Thumb - 14280 Marsh Ln - Addison - TX
+2670 - Randalls - 1890 FM 359 Rd - Richmond - TX
+2671 - Randalls - 525 S Fry Rd - Katy - TX
+2672 - Randalls - 18322 Clay Rd - Houston - TX
+2673 - Randalls - 2250 Buckthorne Place - Spring - TX
+2686 - Tom Thumb - 1701 Randol Mill Rd - Arlington - TX
+2756 - Albertsons - 1210 Albertson Pkwy - Broussard - LA
+2798 - Albertsons - 2750 Country Club Rd - Lake Charles - LA
+2961 - Randalls - 9660 Westheimer Rd - Houston - TX
+2963 - Tom Thumb - 5550 FM 423 - Frisco - TX
+2964 - Tom Thumb - 3070 N Goliad St - Rockwall - TX
+2987 - Randalls - 5145 N FM 620 Rd - Austin - TX
+2990 - Tom Thumb - 7117 Inwood Rd - Dallas - TX
+3042 - Albertsons - 6220 US Hwy 287 - Arlington - TX
+3054 - Randalls - 4775 W Panther Creek Dr - The Woodlands - TX
+3064 - Randalls - 5130 Bellaire Blvd - Bellaire - TX
+3067 - Randalls - 5161 San Felipe St - Houston - TX
+3099 - Tom Thumb - 551 Laurence Dr - Heath - TX
+3145 - Randalls - 3441 N Lakeline Blvd - Leander - TX
+3215 - Albertsons - 2265 S MacArthur Dr - Alexandria - LA
+3296 - Tom Thumb - 2380 Field St - Dallas - TX
+3311 - Tom Thumb - 2727 Live Oak St - Dallas - TX
+3312 - Tom Thumb - 2400 W 7th St - Fort Worth - TX
+3522 - Tom Thumb - 522 Royal Ln - Dallas - TX
+3560 - Tom Thumb - 8698 Skillman St - Dallas - TX
+3563 - Tom Thumb - 633 W Wheatland Rd - Duncanville - TX
+3569 - Tom Thumb - 3878 Oaklawn Ave #180 - Dallas - TX
+3570 - Tom Thumb - 7331 Gaston Ave - Dallas - TX
+3575 - Tom Thumb - 2301 Justin Rd - Flower Mound - TX
+3579 - Tom Thumb - 900 W McDermott Dr - Allen - TX
+3582 - Tom Thumb - 18212 Preston Rd - Dallas - TX
+3597 - Tom Thumb - 11920 Preston Rd - Dallas - TX
+3608 - Tom Thumb - 7700 Northwest Hwy - Dallas - TX
+3614 - Tom Thumb - 315 S Hampton Rd - Dallas - TX
+3617 - Tom Thumb - 2611 W Park Row Dr - Arlington - TX
+3621 - Tom Thumb - 4010 N Macarthur Blvd - Irving - TX
+3622 - Tom Thumb - 6377 Camp Bowie Blvd - Fort Worth - TX
+3623 - Tom Thumb - 210 E Pleasant Run Rd - Desoto - TX
+3625 - Tom Thumb - 302 S Park Blvd - Grapevine - TX
+3637 - Tom Thumb - 1380 W Campbell Rd - Richardson - TX
+3641 - Tom Thumb - 3411 Custer Pkwy - Richardson - TX
+3645 - Tom Thumb - 2200 E 14th St - Plano - TX
+3650 - Tom Thumb - 14999 Preston Rd - Dallas - TX
+3652 - Tom Thumb - 745 Cross Timbers Rd - Flower Mound - TX
+3658 - Tom Thumb - 2755 N Collins St - Arlington - TX
+3676 - United Supermarkets - 2751 County Rd W - Odessa - TX
+3677 - United Supermarkets - 1350 E 8th St - Odessa - TX
+3713 - Albertsons - 15232 George O'Neal Rd - Baton Rouge - LA
+3747 - Albertsons - 15128 Airline Hwy - Baton Rouge - LA
+3750 - Albertsons - 4857 Government St - Baton Rouge - LA
+3792 - Albertsons - 9960 Bluebonnet Blvd - Baton Rouge - LA
+3853 - Tom Thumb - 3001 Hardin Blvd - McKinney - TX
+3854 - Tom Thumb - 4000 William D Tate Ave - Grapevine - TX
+4033 - Randalls - 5586 Weslayan St - Houston - TX
+4062 - Randalls - 2323 Clear Lake City Blvd - Houston - TX
+4102 - Albertsons - 1201 N Saginaw Blvd - Saginaw - TX
+4105 - Albertsons - 4625 Frankford Rd - Dallas - TX
+4112 - Albertsons - 3603 McCann Rd - Longview - TX
+4124 - Albertsons - 7400 Oakmont Blvd - Fort Worth - TX
+4129 - Albertsons - 2828 Motley Dr - Mesquite - TX
+4133 - Albertsons - 427 E FM 1382 - Cedar Hill - TX
+4142 - Albertsons - 301 SW Plaza Shopping Center - Arlington - TX
+4150 - Albertsons - 6308 Lake Worth Blvd - Lake Worth - TX
+4151 - Albertsons - 4400 Western Center Blvd - Fort Worth - TX
+4152 - Albertsons - 2321 W University Dr - Denton - TX
+4163 - Albertsons - 5950 S Cooper St - Arlington - TX
+4176 - Albertsons - 225 E Spring St - Weatherford - TX
+4187 - Albertsons - 1500 S Beltline Rd - Mesquite - TX
+4191 - Albertsons - 4351 FM 2181 - Corinth - TX
+4223 - Albertsons - 9300 Clifford St - Fort Worth - TX
+4231 - Albertsons - 215 N Carrier Pkwy - Grand Prairie - TX
+4234 - Albertsons - 3001 S Central Expy - McKinney - TX
+4239 - Tom Thumb - 921 Westgate Way - Wylie - TX
+4260 - Albertsons - 2165 E Buckingham Dr - Richardson - TX
+4265 - Albertsons - 5710 Broadway Blvd - Garland - TX
+4267 - Albertsons - 6249 Rufe Snow Dr - Watauga - TX
+4272 - Albertsons - 850 E Loop 820 - Fort Worth - TX
+4277 - Albertsons - 3525 Sycamore School Rd - Fort Worth - TX
+4279 - Albertsons - 833 NE Alsbury Blvd - Burleson - TX
+4286 - Albertsons - 6700 W Freeway - Fort Worth - TX
+4289 - Albertsons - 320 Casa Linda Plaza - Dallas - TX
+4290 - Albertsons - 480 Northwest Pkwy - Azle - TX
+4294 - Albertsons - 210 W Katherine P Raines - Cleburne - TX

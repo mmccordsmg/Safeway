@@ -47,6 +47,38 @@ def safeway_login (username, password):
 	else:
 		return(False)
 
+def safeway_get_store_information(storenumber):
+	global session
+	session.headers.update(
+		{
+				"User-Agent": "iphone", 
+				"Content-Type": "application/vnd.safeway.v1+json;charset=UTF-8",
+				"Accept": "application/vnd.safeway.v1+json",
+				"X-IBM-Client-Secret": "Q8hD5aP8nU6mL6nC0yB6xC5lS0mP3lQ7fO7mU0qE3xI6oC5fO1",
+				"CLIENT_APP_VERSION": "10.2.0",
+				"x-swy-client-id": "mobile-ios-portal",
+				"X-SWY_API_KEY": "0fdb13ac50972b700f8a9e352d8ea123414ae1f1.safeway.j4u.iphone",
+				"X-IBM-Client-Id": "0576e73c-2fcf-43ed-b107-9866827f81b9",
+				"x-swy_banner": "safeway",
+				"CLIENT_ID": "",
+				"X-SWY_VERSION": "1.5",
+				'Ocp-Apim-Subscription-Key': 'b2ea4df305624d96960191e1aaed9b9d'
+		}
+	)
+	r = session.get(f'https://www.acmemarkets.com/api/services/locator/entity/store/{storenumber}')
+	rjson = r.json()
+	if rjson.get('resultCount') == 1:
+		store = {}
+		store['brand'] = rjson.get('store').get('brand')
+		store['division'] = rjson.get('store').get('division')
+		store['address'] = rjson.get('store').get('address')
+		store['number'] = storenumber
+		return(store)
+	else:
+		#print(f'Error fetching store information for store# {storenumber}')
+		#print(r.text)
+		return(False)
+		
 def safeway_get_preferred_store(token):
 	global session
 	session.headers.update(
@@ -111,6 +143,39 @@ def safeway_get_coupons(mystore, token):
 	#print (outcoupons)
 	return (outcoupons)
 
+
+def safeway_get_rewards(mystore, token):
+	global session
+	session.headers.update(
+		{
+				"User-Agent": "Safeway/7957 CFNetwork/1220.1 Darwin/20.3.0",
+				"X-SWY_VERSION": "1.1",
+				"Content-Type": "application/json",
+				"Accept": "*/*",
+				"Authorization": "Bearer %s" % token,
+				"X-SWY_MOBILE_VERSION": "1.0",
+				"Accept-Encoding": "gzip, deflate, br",
+				"X-SWY_BANNER": "safeway",
+				"ADRUM": "isAjax:true",
+				"X-SWY_API_KEY": "emmd",
+				"ADRUM_1": "isMobile:true",
+				"X-SWY-APPLICATION-TYPE": "native-mobile"
+		}
+	)
+	session.headers.update({'Ocp-Apim-Subscription-Key': ''})
+	#print(mystore)
+	cookies = {'swyConsumerDirectoryPro': token}
+	r=session.get(f'https://nimbus.safeway.com/rewards/service/gallery/offer/gr?storeId={mystore}', cookies=cookies)
+	deals = r.json()["grOffers"]
+	if deals:
+		#print(deals)
+		outcoupons = []
+		for deal in deals:
+			if deal["status"] == 'U':
+				outcoupons.append(deal)
+	#print (outcoupons)
+	return (outcoupons)
+
 def safeway_clip_coupons(coupons, mystore, token):
 	global session
 	session.headers.update(
@@ -153,6 +218,93 @@ def safeway_clip_coupons(coupons, mystore, token):
 		payload={"items": toclip}
 		r=session.post(url, data=json.dumps(payload), cookies=cookies)
 		print(f'Clipping {len(toclip)/2:.0f} coupons')
+		#print(r.text)
+	return(True)
+
+def safeway_clip_rewards(rewards, mystore, token):
+	global session
+	session.headers.update(
+		{
+				"User-Agent": "Safeway/7957 CFNetwork/1220.1 Darwin/20.3.0",
+				"X-SWY_VERSION": "1.1",
+				"Content-Type": "application/json",
+				"Accept": "*/*",
+				"X-SWY_MOBILE_VERSION": "1.0",
+				"Accept-Encoding": "gzip, deflate, br",
+				"X-SWY_BANNER": "safeway",
+				"ADRUM": "isAjax:true",
+				"X-SWY_API_KEY": "0fdb13ac50972b700f8a9e352d8ea123414ae1f1.acmemarkets.j4u.iphone",
+				"ADRUM_1": "isMobile:true",
+				"Ocp-Apim-Subscription-Key": ""
+		}
+	)
+	cookies = {'swyConsumerDirectoryPro': token}
+	url=f"https://nimbus.safeway.com/Clipping1/services/clip/items?storeId={mystore}"
+	while len(rewards):
+		i=0
+		toclip=[]
+		while (len(rewards) and i<125):
+			reward = rewards.pop()
+			toclip.append(
+				{
+						"clipType": "D",
+						"itemId": reward["offerId"],
+						"itemType": reward["offerPgm"]
+				})
+			i+=1
+		payload={"items": toclip}
+		print(f'Clipping {len(toclip):.0f} rewards')
+		r=session.post(url, data=json.dumps(payload), cookies=cookies)
+		itms = r.json().get('items')
+		for item in itms:
+			if item.get('status'):
+				print(f'{item.get("itemId")}: Successfully clipped')
+			else:
+				print(f'{item.get("itemId")}: {item.get("errorMsg")}')
+		#print(r.text)
+	return(True)
+
+def safeway_unclip_rewards(rewards, mystore, token):
+	global session
+	session.headers.update(
+		{
+				"User-Agent": "Safeway/7957 CFNetwork/1220.1 Darwin/20.3.0",
+				"X-SWY_VERSION": "1.1",
+				"Content-Type": "application/json",
+				"Accept": "*/*",
+				"X-SWY_MOBILE_VERSION": "1.0",
+				"Accept-Encoding": "gzip, deflate, br",
+				"X-SWY_BANNER": "safeway",
+				"ADRUM": "isAjax:true",
+				"X-SWY_API_KEY": "0fdb13ac50972b700f8a9e352d8ea123414ae1f1.acmemarkets.j4u.iphone",
+				"ADRUM_1": "isMobile:true",
+				"Ocp-Apim-Subscription-Key": ""
+		}
+	)
+	cookies = {'swyConsumerDirectoryPro': token}
+	url=f"https://nimbus.safeway.com/Clipping1/services/update/items?storeId={mystore}"
+	while len(rewards):
+		i=0
+		toclip=[]
+		while (len(rewards) and i<125):
+			reward = rewards.pop()
+			toclip.append(
+				{
+						"id": reward["offerId"],
+						"itemType": reward["offerPgm"],
+						"storeId": mystore
+				}
+			)
+			i+=1
+		payload={"items": toclip}
+		print(f'Unclipping {len(toclip):.0f} rewards')
+		r=session.post(url, data=json.dumps(payload), cookies=cookies)
+		itms = r.json().get('items')
+		for item in itms:
+			if item.get('status'):
+				print(f'{item.get("itemId")}: Successfully clipped')
+			else:
+				print(f'{item.get("itemId")}: {item.get("errorMsg")}')
 		#print(r.text)
 	return(True)
 

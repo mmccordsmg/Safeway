@@ -1,0 +1,92 @@
+22 - United Supermarkets - 4701 S Washington St - Amarillo - TX
+34 - United Supermarkets - 1601 Tennessee Ave - Dalhart - TX
+78 - Market Street - 3121 Sunset Dr - San Angelo - TX
+133 - United Supermarkets - 3400 River Rd - Amarillo - TX
+146 - United Supermarkets - 202 N Main St - Seymour - TX
+150 - United Supermarkets - 2160 Pine St - Abilene - TX
+152 - United Supermarkets - 1207 W Walker St - Breckenridge - TX
+167 - United Supermarkets - 521 S Access Rd W - Clyde - TX
+172 - United Supermarkets - 111 SE 2nd St - Seminole - TX
+210 - Amigos - 520 N 25 Mile Ave - Hereford - TX
+221 - United Supermarkets - 2522 Iowa Park Rd - Wichita Falls - TX
+263 - Market Street - 985 W Bethany Dr - Allen - TX
+417 - Market Street - 4590 Kell Blvd - Wichita Falls - TX
+518 - United Supermarkets - 2105 Ave F NW - Childress - TX
+539 - United Supermarkets - 1414 W Wilson St - Borger - TX
+554 - United Supermarkets - 300 E Commerce St - Brownwood - TX
+605 - United Supermarkets - 401 Slide Rd - Lubbock - TX
+612 - United Supermarkets - 123 N Broadway St - Post - TX
+620 - United Supermarkets - 1229 Hwy 16 S - Graham - TX
+663 - None - 2783 S. Cedar St. - Pecos - TX
+675 - Market Street - 4950 E 42nd St - Odessa - TX
+679 - Market Street - 4450 Buffalo Gap Rd - Abilene - TX
+680 - Albertsons Market - 2402 N Grimes St - Hobbs - NM
+682 - Albertsons Market - 721 Mechem Dr - Ruidoso - NM
+685 - Market Street - 4268 Legacy Dr - Frisco - TX
+692 - Albertsons Market - 900 W 2nd St - Roswell - NM
+696 - Market Street - 3145 E Broad Street - Mansfield - TX
+823 - United Supermarkets - 5601 Amarillo Blvd W - Amarillo - TX
+903 - Albertsons Market - 4300 Ridgecrest Dr - Rio Rancho - NM
+905 - Albertsons Market - 2910 Juan Tabo Blvd NE - Albuquerque - NM
+922 - Albertsons Market - 6600 Central Ave S W - Albuquerque - NM
+924 - Albertsons Market - 8100 Ventura St NE - Albuquerque - NM
+927 - Market Street - 600 N Guadalupe St - Santa Fe - NM
+937 - Albertsons Market - 10131 Coors Rd NW - Albuquerque - NM
+938 - Albertsons Market - 7101 Wyoming Blvd NE - Albuquerque - NM
+986 - Albertsons Market - 3542 Zafarano Dr - Santa Fe - NM
+1216 - United Supermarkets - 4516 Old Jacksboro Hwy - Wichita Falls - TX
+1308 - Amigos - 2403 N Columbia Ave - Plainview - TX
+1313 - United Supermarkets - 2900 Wilbarger Ave - Vernon - TX
+1325 - United Supermarkets - 2806 S Main St - Perryton - TX
+1326 - Market Street - 2530 S Georgia St - Amarillo - TX
+1545 - United Supermarkets - 1095 Judge Ely Blvd - Abilene - TX
+1564 - Market Street - 700 N Denton Tap Rd - Coppell - TX
+1607 - United Supermarkets - 3501 Olton Rd - Plainview - TX
+1686 - Albertsons Market - 1905 N Prince St - Clovis - NM
+1860 - Market Street - 5605 Colleyville Blvd - Colleyville - TX
+1904 - Albertsons Market - 4950 Montgomery Blvd NE - Albuquerque - NM
+1915 - Albertsons Market - 6200 Coors Blvd NW - Albuquerque - NM
+1919 - Albertsons Market - 2351 Main St SE - Los Lunas - NM
+2128 - United Supermarkets - 1420 N Hobart St - Pampa - TX
+2211 - United Supermarkets - 615 S Hwy 84 - Slaton - TX
+2529 - United Supermarkets - 5807 SW 45th Ave - Amarillo - TX
+2540 - United Supermarkets - 2302 Lubbock Hwy - Lamesa - TX
+2542 - United Supermarkets - 1420 Guylane Plaza - Dumas - TX
+2553 - Market Street - 4425 19th St - Lubbock - TX
+2562 - Market Street - 11999 Dallas Pkwy - Frisco - TX
+2603 - Amigos - 112 N University Ave - Lubbock - TX
+2801 - United Supermarkets - 2630 Parkway Dr - Lubbock - TX
+2802 - Market Street - 3405 50th St - Lubbock - TX
+2920 - Albertsons Market - 710 A Paseo del Pueblo Sur - Taos - NM
+2923 - Albertsons Market - 7800 Enchanted Hills Dr NE - Rio Rancho - NM
+2928 - Albertsons Market - 11825 Lomas Blvd NE - Albuquerque - NM
+2939 - Albertsons Market - 12201 Academy Rd NE - Albuquerque - NM
+3155 - United Supermarkets - 12815 Indiana Ave - Lubbock - TX
+3214 - United Supermarkets - 1000 W 11th St - Quanah - TX
+3506 - United Supermarkets - 1701 50th St - Lubbock - TX
+3509 - United Supermarkets - 511 College Ave - Levelland - TX
+3524 - Amigos - 3300 I-40 E - Amarillo - TX
+3527 - United Supermarkets - 1501 Amarillo Blvd E - Amarillo - TX
+3530 - United Supermarkets - 3552 S Soncy Rd - Amarillo - TX
+3532 - United Supermarkets - 201 N 23rd St - Canyon - TX
+3535 - United Supermarkets - 701 Marshall Howard Blvd - Littlefield - TX
+3536 - United Supermarkets - 1401 Tahoka Rd - Brownfield - TX
+3537 - United Supermarkets - 2703 82nd St - Lubbock - TX
+3543 - Market Street - 4205 98th St - Lubbock - TX
+3547 - United Supermarkets - 920 N Willis St - Abilene - TX
+3550 - United Supermarkets - 104 W 9th St - Muleshoe - TX
+3552 - United Supermarkets - 6313 4th St - Lubbock - TX
+3565 - Market Street - 3800 Long Prairie Rd - Flower Mound - TX
+3674 - Market Street - 4706 N Midkiff Rd - Midland - TX
+3681 - Albertsons Market - 1300 E 10th St - Alamogordo - NM
+3690 - Albertsons Market - 1110 S Main St - Roswell - NM
+3911 - Albertsons Market - 2801 A Eubank Blvd NE - Albuquerque - NM
+3917 - Albertsons Market - 1625 Rio Bravo Blvd SW - Albuquerque - NM
+3987 - Albertsons Market - 3001 S St. Francis Dr - Santa Fe - NM
+4515 - United Supermarkets - 311 S Ave D - Burkburnett - TX
+4548 - United Supermarkets - 3301 S 14th St - Abilene - TX
+4549 - United Supermarkets - 3500 College Ave - Snyder - TX
+4551 - United Supermarkets - 8010 Frankford Ave - Lubbock - TX
+4561 - Market Street - 6100 W El Dorado Pkwy - McKinney - TX
+4566 - Market Street - 1929 Preston Rd - Plano - TX
+4687 - Albertsons Market - 202 West Church Street - Carlsbad - NM

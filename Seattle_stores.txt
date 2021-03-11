@@ -1,0 +1,219 @@
+149 - Safeway - 1610 W Lincoln Ave - Yakima - WA
+186 - Safeway - 8196 NE Hwy 104 - Kingston - WA
+206 - Albertsons - 9001 N Indian Trail Rd - Spokane - WA
+219 - Safeway - 3900 S Othello St - Seattle - WA
+228 - Albertsons - 1330 N 20th Ave - Pasco - WA
+238 - Albertsons - 1024 21st St - Lewiston - ID
+241 - Albertsons - 400 Bridge St - Clarkston - WA
+243 - Albertsons - 220 Ironwood Dr - Coeur d'Alene - ID
+246 - Albertsons - 8851 E Trent Ave - Spokane - WA
+251 - Safeway - 1220 Morgan St - Davenport - WA
+252 - Albertsons - 690 Gage Blvd - Richland - WA
+254 - Albertsons - 161 W Prairie Ave - Hayden - ID
+258 - Albertsons - 13606 E 32nd Ave - Spokane - WA
+265 - Albertsons - 6520 N Nevada - Spokane - WA
+329 - Safeway - 1112 S M St - Tacoma - WA
+333 - Safeway - 1803 George Washington Way - Richland - WA
+335 - Safeway - 2825 W Kennewick Ave - Kennewick - WA
+337 - Safeway - 10 W Colville Ave - Chewelah - WA
+342 - Safeway - 1616 W Northwest Blvd - Spokane - WA
+350 - Safeway - 702 N 5th Ave - Sandpoint - ID
+366 - Safeway - 2725 NE Sunset Blvd - Renton - WA
+368 - Safeway - 2100 Queen Anne Ave N - Seattle - WA
+383 - Safeway - 1320 S Blaine St - Moscow - ID
+385 - Safeway - 391 N Main St - Colville - WA
+402 - Safeway - 1450 SW Erie St - Oak Harbor - WA
+414 - Safeway - 4301 212th St SW - Mountlake Terrace - WA
+419 - Albertsons - 370 SW Sedgwick Rd - Port Orchard - WA
+422 - Safeway - 611 S Meridian - Puyallup - WA
+423 - Safeway - 7340 35th Ave NE - Seattle - WA
+453 - Albertsons - 4621 NE Sunset Blvd - Renton - WA
+458 - Safeway - 16304 Bothell Everett Hwy - Mill Creek - WA
+459 - Safeway - 20830 108th Ave SE - Kent - WA
+462 - Safeway - 205 N 5th Ave - Yakima - WA
+464 - Safeway - 17246 Redmond Way - Redmond - WA
+469 - Safeway - 12811 Beverly Park Rd - Lynnwood - WA
+471 - Albertsons - 301 Marysville Mall #60 - Marysville - WA
+474 - Safeway - 1715 Broadway Ave - Everett - WA
+475 - Albertsons - 1434 Olney Ave SE - Port Orchard - WA
+477 - Safeway - 28810 Military Rd S - Federal Way - WA
+485 - Safeway - 19500 Hwy 99 Suite 110 - Lynnwood - WA
+486 - Safeway - 3842 Bridgeport Way - Tacoma - WA
+488 - Safeway - 3020 NE 45th St - Seattle - WA
+490 - Safeway - 1645 140th Ave NE - Bellevue - WA
+493 - Albertsons - 104 Military Rd - Tacoma - WA
+494 - Safeway - 152 Roosevelt Ave E - Enumclaw - WA
+496 - Safeway - 15000 NE 24th St - Redmond - WA
+497 - Safeway - 17202 15th Ave NE - Shoreline - WA
+502 - Safeway - 5702 Summitview Ave - Yakima - WA
+503 - Safeway - 11031 19th Ave SE - Everett - WA
+519 - Safeway - 17230 140th Ave SE - Renton - WA
+520 - Carrs - 3101 Penland Pkwy - Anchorage - AK
+526 - Safeway - 14444 124th Ave NE - Kirkland - WA
+531 - Safeway - 101 Auburn Way S - Auburn - WA
+533 - Safeway - 19150 NE Woodinville Duvall Rd - Woodinville - WA
+534 - Safeway - 3532 172nd St NE - Arlington - WA
+535 - Safeway - 20711 Bothell Hwy - Bothell - WA
+537 - Safeway - 19651 Hwy 2 - Monroe - WA
+538 - Safeway - 442 W Sims Way - Port Townsend - WA
+543 - Safeway - 4700 Yelm Hwy SE - Lacey - WA
+544 - Safeway - 21301 Hwy 410 - Bonney Lake - WA
+547 - Safeway - 10105 224th St E - Graham - WA
+548 - Safeway - 44428 Sterling Hwy - Soldotna - AK
+555 - Safeway - 630 228th Ave NE - Sammamish - WA
+558 - Safeway - 6911 Coal Creek Pkwy SE - Newcastle - WA
+563 - Safeway - 613 S 6th St - Sunnyside - WA
+584 - Safeway - 711 W 1st Ave - Toppenish - WA
+585 - Safeway - 600 Franklin St - Shelton - WA
+593 - Safeway - 911 11th St - Anacortes - WA
+720 - Carrs - 2920 Seward Hwy - Anchorage - AK
+792 - Safeway - 17023 SE 272nd - Covington - WA
+1062 - Safeway - 4754 42nd Ave SW - Seattle - WA
+1076 - Safeway - 1119 13th St - Snohomish - WA
+1090 - Safeway - 2685 Mill Bay Rd - Kodiak - AK
+1135 - Safeway - 804 W 1st St - Cle Elum - WA
+1142 - Safeway - 12519 NE 85th St - Kirkland - WA
+1143 - Safeway - 8340 15th Ave NW - Seattle - WA
+1159 - Safeway - 121 W Walnut St - Newport - WA
+1173 - Safeway - 1243 Marvin Rd NE - Lacey - WA
+1186 - Safeway - 27035 Pacific Hwy S - Des Moines - WA
+1194 - Safeway - 607 Omache Dr - Omak - WA
+1235 - Safeway - 2204A W Nob Hill Blvd - Yakima - WA
+1242 - Safeway - 2509 E 29th Ave - Spokane - WA
+1246 - Safeway - 6201 6th Ave - Tacoma - WA
+1252 - Safeway - 253 High School Rd NE - Bainbridge Island - WA
+1268 - Albertsons - 3010 E 57th Ave - Spokane - WA
+1294 - Safeway - 210 Washington Ave S - Kent - WA
+1297 - Safeway - 23632 Hwy 99 - Edmonds - WA
+1299 - Safeway - 10100 N Newport Hwy - Spokane - WA
+1407 - Albertsons - 705 Trosper Rd SW - Tumwater - WA
+1413 - Albertsons - 3322 132nd St SE - Mill Creek - WA
+1436 - Safeway - 1624 72nd St E - Tacoma - WA
+1437 - Safeway - 1302 S 38th St - Tacoma - WA
+1444 - Safeway - 15100 SE 38th St - Bellevue - WA
+1448 - Safeway - 680F W Washington St - Sequim - WA
+1449 - Safeway - 501 N Miller St - Wenatchee - WA
+1461 - Albertsons - 520 128th St SW - Everett - WA
+1464 - Safeway - 3215 Harrison Ave NW - Olympia - WA
+1467 - Safeway - 900 N Callow Ave - Bremerton - WA
+1470 - Safeway - 121 W Neider Ave - Coeur d'Alene - ID
+1471 - Safeway - 26916 Maple Valley Rd - Maple Valley - WA
+1472 - Safeway - 315 E College Way - Mount Vernon - WA
+1473 - Safeway - 14020 E Sprague Ave - Spokane - WA
+1477 - Safeway - 1423 NW Market St - Seattle - WA
+1484 - Safeway - 4128 Rucker Ave - Everett - WA
+1485 - Safeway - 1258 State St - Marysville - WA
+1492 - Safeway - 110 E 3rd St - Port Angeles - WA
+1493 - Safeway - 4011 S 164th - Seattle - WA
+1494 - Safeway - 2507 W Wellesley Ave - Spokane - WA
+1495 - Safeway - 1129 Harrison Ave - Centralia - WA
+1496 - Safeway - 1405 E Main Ave - Puyallup - WA
+1503 - Safeway - 520 Cleveland Ave SE - Tumwater - WA
+1508 - Safeway - 3820 Rainier Ave S - Seattle - WA
+1522 - Safeway - 20500 Olympic Pl - Arlington - WA
+1524 - Safeway - 1401 NE McWilliams Rd - Bremerton - WA
+1528 - Safeway - 460 SW Mt Si Blvd - North Bend - WA
+1544 - Safeway - 1150 Basin St SW - Ephrata - WA
+1546 - Safeway - 221 W Heron St - Aberdeen - WA
+1550 - Safeway - 7300 Roosevelt Way NE - Seattle - WA
+1551 - Safeway - 1410 E John St - Seattle - WA
+1555 - Safeway - 1207 S 320th St - Federal Way - WA
+1563 - Safeway - 200 S 3rd St - Renton - WA
+1571 - Safeway - 23961 NE State Route 3 - Belfair - WA
+1572 - Safeway - 14020 Main St NE - Duvall - WA
+1586 - Safeway - 12318 15th Ave NE - Seattle - WA
+1589 - Safeway - 116 Riverbend Dr - Leavenworth - WA
+1593 - Safeway - 610 E Wine Country Rd - Grandview - WA
+1594 - Safeway - 707 S 56th St - Tacoma - WA
+1600 - Safeway - 300 Bellevue Way NE - Bellevue - WA
+1619 - Safeway - 1109 Yelm Ave E - Yelm - WA
+1624 - Safeway - 735 NW Gilman Blvd - Issaquah - WA
+1630 - Safeway - 400 N Ruby St - Ellensburg - WA
+1645 - Safeway - 10223 Gravelly Lake Dr SW - Lakewood - WA
+1660 - Safeway - 905 E Meade Ave - Yakima - WA
+1664 - Safeway - 138 SW 148th St - Burien - WA
+1680 - Safeway - 2890 NW Bucklin Hill Rd - Silverdale - WA
+1739 - Carrs - 664 W Evergreen Ave - Palmer - AK
+1740 - Safeway - 2710 1st St - Cheney - WA
+1798 - Safeway - 11501 Canyon Rd E - Puyallup - WA
+1799 - Safeway - 3919 N Market St - Spokane - WA
+1802 - Carrs - 1340 Gambell St - Anchorage - AK
+1803 - Safeway - 717 SR 9 NE - Lake Stevens - WA
+1805 - Carrs - 1650 W Northern Lights Blvd - Anchorage - AK
+1807 - Carrs - 11409 Business Park Blvd - Eagle River - AK
+1808 - Safeway - 10576 Kenai Spur Hwy - Kenai - AK
+1809 - Carrs - 5600 Debarr Rd - Anchorage - AK
+1811 - Carrs - 595 E Parks Hwy - Wasilla - AK
+1812 - Carrs - 4000 W Dimond Blvd - Anchorage - AK
+1813 - Carrs - 1501 Huffman Rd - Anchorage - AK
+1817 - Carrs - 7731 E Northern Lights Blvd - Anchorage - AK
+1818 - Safeway - 2417 Tongass Ave - Ketchikan - AK
+1820 - Safeway - 3033 Vintage Blvd - Juneau - AK
+1821 - Safeway - 301 N Santa Claus Ln - North Pole - AK
+1832 - Safeway - 90 Sterling Hwy - Homer - AK
+1833 - Safeway - 1313 Meals St - Valdez - AK
+1834 - Safeway - 2029 Airport Beach Rd - Unalaska - AK
+1835 - Eagle - 415 Bering St - Nome - AK
+1839 - Eagle - 147 Hightower Rd - Girdwood - AK
+1844 - Safeway - 215 Whitesell St NW - Orting - WA
+1864 - Safeway - 24040 Bothell Everett Hwy - Bothell - WA
+1885 - Safeway - 516 1st Ave W - Seattle - WA
+1922 - Safeway - 2709 E Hwy 101 - Port Angeles - WA
+1923 - Safeway - 9620 28th Ave SW - Seattle - WA
+1930 - Safeway - 8071 Guide Meridian Rd #101 - Lynden - WA
+1952 - Safeway - 4280 Martin Way E - Olympia - WA
+1965 - Safeway - 9262 Rainier Ave S - Seattle - WA
+1966 - Safeway - 13101 SE Kent-Kangley Rd - Kent - WA
+1977 - Safeway - 6200 Pacific Ave SE - Lacey - WA
+1978 - Safeway - 2637 N Pearl St - Tacoma - WA
+1993 - Safeway - 2201 E Madison St - Seattle - WA
+2248 - Safeway - 1304 N Liberty Lake Rd - Liberty Lake - WA
+2628 - Carrs - 1725 Abbott Rd - Anchorage - AK
+2639 - Safeway - 430 SE Bishop Blvd - Pullman - WA
+2640 - Safeway - 13308 Meridian E - Puyallup - WA
+2645 - Safeway - 5802 134th Place SE - Everett - WA
+2728 - Safeway - 1907 Seward Hwy - Seward - AK
+2729 - Safeway - 708 Shaw Rd E - Puyallup - WA
+2734 - Safeway - 10020 NE 137th St - Kirkland - WA
+2754 - Safeway - 3627 Airport Way - Fairbanks - AK
+2932 - Safeway - 2622 California Ave SW - Seattle - WA
+2954 - Safeway - 6519 S Main St - Bonners Ferry - ID
+3006 - Safeway - 1451 Highlands Dr - Issaquah - WA
+3091 - Safeway - 4732 Brooklyn Ave NE - Seattle - WA
+3106 - Albertsons - 11012 Canyon Rd E - Puyallup - WA
+3120 - Safeway - 12725 1st Ave S - Burien - WA
+3148 - Safeway - 19245 10th Ave NE - Poulsbo - WA
+3213 - Safeway - 15332 Aurora Ave N - Shoreline - WA
+3228 - Safeway - 5616 176th St E - Puyallup - WA
+3247 - Safeway - 320 Midway Ave - Grand Coulee - WA
+3248 - Safeway - 902 W Francis Ave - Spokane - WA
+3252 - Safeway - 601 S Pioneer Way - Moses Lake - WA
+3253 - Albertsons - 5204 W Clearwater Ave - Kennewick - WA
+3255 - Safeway - 933 E Mission Ave - Spokane - WA
+3265 - Safeway - 106 W Manson Rd - Chelan - WA
+3285 - Safeway - 1275 E Sunset Dr - Bellingham - WA
+3295 - Safeway - 1001 N 4th St - Coeur D'Alene - ID
+3298 - Safeway - 7601 Evergreen Way - Everett - WA
+3305 - Safeway - 15805 Pacific Ave S - Tacoma - WA
+3317 - Safeway - 3355 Bethel Rd SE - Port Orchard - WA
+3319 - Safeway - 4300 NE 4th St - Renton - WA
+3321 - Safeway - 4831 Point Fosdick Dr NW - Gig Harbor - WA
+3408 - Albertsons - 2550 32nd Ave W - Seattle - WA
+3410 - Safeway - 30 College Rd - Fairbanks - AK
+3411 - Albertsons - 8611 Steilacoom Blvd SW - Tacoma - WA
+3412 - Albertsons - 1128 N Miller St - Wenatchee - WA
+3416 - Albertsons - 17171 Bothell Way NE - Lake Forest Park - WA
+3417 - Albertsons - 3520 Pacific Ave SE - Olympia - WA
+3418 - Albertsons - 3925 236th Ave NE - Redmond - WA
+3419 - Safeway - 17520 SR 9 SE - Snohomish - WA
+3424 - Safeway - 2411 N Proctor St - Tacoma - WA
+3500 - Safeway - 6850 NE Bothell Way - Kenmore - WA
+3501 - Safeway - 2109 SW 336th St - Federal Way - WA
+3521 - Safeway - 510 Grant Rd - East Wenatchee - WA
+3523 - Safeway - 14826 Hwy 99 N - Lynnwood - WA
+3525 - Safeway - 1100 S Market Blvd - Chehalis - WA
+3540 - Safeway - 21401 Pacific Hwy S - Des Moines - WA
+3545 - Safeway - 900 E Meridian Ave Suite 12 - Milton - WA
+3613 - Safeway - 34828 SE Douglas St - Snoqualmie - WA
+4406 - Albertsons - 11330 NW 51st Ave - Gig Harbor - WA
+4483 - Albertsons - 4010 A St - Auburn - WA

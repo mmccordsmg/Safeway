@@ -1,0 +1,199 @@
+2 - Albertsons - 201 S Stephanie St - Henderson - NV
+4 - Albertsons - 3130 W Carefree Hwy - Phoenix - AZ
+13 - Albertsons - 2550 S Fort Apache Rd - Las Vegas - NV
+23 - Albertsons - 861 E Warner Rd - Gilbert - AZ
+25 - Albertsons - 21001 N Tatum Blvd Suite 76 - Phoenix - AZ
+45 - Albertsons - 1760 E Charleston Blvd - Las Vegas - NV
+46 - Albertsons - 1001 S Rainbow Blvd - Las Vegas - NV
+61 - Albertsons - 4850 W Craig Rd - Las Vegas - NV
+89 - Albertsons - 6885 E Lake Mead Blvd - Las Vegas - NV
+90 - Albertsons - 7075 W Ann Rd - Las Vegas - NV
+93 - Albertsons - 1008 Nevada Hwy - Boulder City - NV
+118 - Albertsons - 7151 W Craig Rd - Las Vegas - NV
+129 - Albertsons - 5975 W Tropicana Ave - Las Vegas - NV
+174 - Safeway - 520 W Osborn Rd - Phoenix - AZ
+197 - Albertsons - 11475 E Via Linda - Scottsdale - AZ
+212 - Albertsons - 8350 W Cheyenne Ave - Las Vegas - NV
+216 - Safeway - 1650 Mcculloch Blvd N - Lake Havasu City - AZ
+236 - Safeway - 10926 W Bell Rd - Sun City - AZ
+239 - Safeway - 1601 N Park Dr - Winslow - AZ
+240 - Safeway - 3450 W Bell Rd - Phoenix - AZ
+245 - Safeway - 1044 Willow Creek Rd - Prescott - AZ
+247 - Safeway - 1225 W Guadalupe - Mesa - AZ
+248 - Safeway - 1751 Hwy 95 - Bullhead City - AZ
+249 - Safeway - 650 Elm St - Page - AZ
+250 - Safeway - 4752 E Sunrise Dr - Tucson - AZ
+253 - Safeway - 3185 W Apache Trail - Apache Junction - AZ
+255 - Safeway - 1551 W St Marys Rd - Tucson - AZ
+261 - Safeway - 101 Naco Hwy - Bisbee - AZ
+267 - Safeway - 2940 W Valencia Rd - Tucson - AZ
+270 - Safeway - 4910 N Hwy 89 - Flagstaff - AZ
+272 - Safeway - 650 N Bisbee Ave - Willcox - AZ
+274 - Safeway - 450 White Spar Rd - Prescott - AZ
+276 - Albertsons - 7350 S Rainbow Blvd - Las Vegas - NV
+301 - Albertsons - 915 Redcliffs Dr - Washington - UT
+332 - Albertsons - 4800 Blue Diamond Rd - Las Vegas - NV
+341 - Albertsons - 200 S Hwy 160 - Pahrump - NV
+413 - Safeway - 550 E Bell Rd - Phoenix - AZ
+460 - Albertsons - 11720 W Charleston Blvd - Las Vegas - NV
+662 - Albertsons - 2885 E Desert Inn Rd - Las Vegas - NV
+752 - Safeway - 4747 E Elliot Rd - Phoenix - AZ
+925 - Albertsons - 2551 E Lohman Ave - Las Cruces - NM
+934 - Albertsons - 2200 Yarbrough Dr - El Paso - TX
+958 - Albertsons - 325 S Power Rd - Mesa - AZ
+960 - Albertsons - 7300 N La Cholla Blvd - Tucson - AZ
+961 - Albertsons - 2854 N Campbell Ave - Tucson - AZ
+963 - Albertsons - 6600 E Grant Rd - Tucson - AZ
+966 - Albertsons - 6965 N Hayden Rd - Scottsdale - AZ
+977 - Albertsons - 14551 W Grand Ave - Surprise - AZ
+980 - Albertsons - 1951 W Baseline Rd - Mesa - AZ
+981 - Albertsons - 3145 S Alma School Rd - Chandler - AZ
+991 - Albertsons - 8240 W Deer Valley Rd - Peoria - AZ
+1002 - Albertsons - 9243 E Baseline Rd - Mesa - AZ
+1006 - Albertsons - 5200 Montana Ave - El Paso - TX
+1055 - Safeway - 7720 E Hwy 69 - Prescott Valley - AZ
+1059 - Albertsons - 5500 Boulder Hwy - Las Vegas - NV
+1201 - Safeway - 4005 E Chandler Blvd - Phoenix - AZ
+1207 - Safeway - 2300 W Hwy 89A - Sedona - AZ
+1221 - Albertsons - 2935 E Riggs Rd - Chandler - AZ
+1225 - Safeway - 1500 E Cedar Ave - Flagstaff - AZ
+1229 - Safeway - 465 W Mariposa Rd - Nogales - AZ
+1253 - Safeway - 23565 N Scottsdale Rd - Scottsdale - AZ
+1255 - Safeway - 7110 N Oracle Rd - Tucson - AZ
+1275 - Safeway - 599 W 4th St - Benson - AZ
+1291 - Safeway - 13733 Fountain Hills Blvd - Fountain Hills - AZ
+1329 - Albertsons - 745 N Dixie Dr - Saint George - UT
+1474 - Safeway - 4823 S Hwy 95 - Fort Mohave - AZ
+1487 - Safeway - 926 E Broadway Rd - Tempe - AZ
+1491 - Safeway - 7920 E Chaparral Rd - Scottsdale - AZ
+1510 - Safeway - 20205 N 67th Ave #100 - Glendale - AZ
+1511 - Safeway - 14175 W Indian School Rd - Goodyear - AZ
+1515 - Safeway - 810 E Glendale Ave - Phoenix - AZ
+1521 - Safeway - 12122 N Rancho Vistoso Blvd - Oro Valley - AZ
+1534 - Safeway - 90 S Val Vista Dr - Gilbert - AZ
+1535 - Safeway - 1515 E Elliot Rd - Tempe - AZ
+1536 - Safeway - 401 E Hwy 260 - Payson - AZ
+1543 - Safeway - 29834 N Cave Creek Rd - Cave Creek - AZ
+1549 - Safeway - 14696 N Frank Lloyd Wright Blvd - Scottsdale - AZ
+1566 - Safeway - 4970 S Alma School Rd - Chandler - AZ
+1584 - Safeway - 1999 W Wickenburg Way - Wickenburg - AZ
+1591 - Safeway - 6202 S 16th St - Phoenix - AZ
+1604 - Safeway - 1159 W Chandler Blvd - Chandler - AZ
+1605 - Safeway - 1060 E Ray Rd - Chandler - AZ
+1637 - Safeway - 3622 E Southern Ave - Mesa - AZ
+1639 - Safeway - 637 W Route 66 - Williams - AZ
+1654 - Safeway - 4811 N 83rd Ave - Phoenix - AZ
+1662 - Safeway - 10641 W Olive Ave - Peoria - AZ
+1663 - Safeway - 20901 N Pima Rd - Scottsdale - AZ
+1684 - Safeway - 1940 E Broadway Blvd - Tucson - AZ
+1706 - Safeway - 1637 N Trekell Rd - Casa Grande - AZ
+1717 - Safeway - 1902 W Main St - Mesa - AZ
+1732 - Safeway - 1449 N Arizona Blvd - Coolidge - AZ
+1733 - Safeway - 900 W Deuce Of Clubs - Show Low - AZ
+1743 - Safeway - 980 N Hwy 491 - Gallup - NM
+1747 - Safeway - 1031 N US Hwy 89 - Chino Valley - AZ
+1748 - Safeway - 5137 E Baseline Rd - Gilbert - AZ
+1749 - Safeway - 9100 N Silverbell Rd - Tucson - AZ
+1750 - Safeway - 6501 E Greenway Pkwy Bldg 4 - Scottsdale - AZ
+1771 - Safeway - 1305 W Duval Mine Rd - Sahuarita - AZ
+1795 - Vons - 2511 Anthem Village - Henderson - NV
+1819 - Safeway - 18495 E Queen Creek Rd - Queen Creek - AZ
+1841 - Safeway - 12320 N 83rd Ave - Peoria - AZ
+1849 - Safeway - 32551 N Scottsdale Rd - Scottsdale - AZ
+1874 - Safeway - 6360 E Golf Links Rd - Tucson - AZ
+1887 - Safeway - 3970 Stockton Hill Rd - Kingman - AZ
+1909 - Albertsons - 1285 S El Paseo Rd - Las Cruces - NM
+1936 - Albertsons - 3100 Mesa St - El Paso - TX
+1948 - Albertsons - 441 N Val Vista Dr - Mesa - AZ
+1963 - Vons - 1155 E Twain Ave - Las Vegas - NV
+1970 - Vons - 8540 W Desert Inn Rd - Las Vegas - NV
+1971 - Albertsons - 8950 W Bell Rd - Peoria - AZ
+1979 - Safeway - 13440 N 7th St - Phoenix - AZ
+1980 - Safeway - 1334 E Chandler Blvd - Phoenix - AZ
+1983 - Safeway - 2140 W Grant Rd - Tucson - AZ
+1984 - Safeway - 9125 E Tanque Verde - Tucson - AZ
+1986 - Safeway - 9050 E Valencia Rd - Tucson - AZ
+1988 - Safeway - 7177 E Tanque Verde Rd - Tucson - AZ
+1989 - Safeway - 9460 E Golf Links Rd - Tucson - AZ
+1997 - Safeway - 17049 W Bell Rd - Surprise - AZ
+2016 - Albertsons - 11320 Montwood Dr - El Paso - TX
+2017 - Safeway - 3125 Stockton Hill Rd - Kingman - AZ
+2028 - Safeway - 1201 S Plaza Way - Flagstaff - AZ
+2032 - Safeway - 10773 N Scottsdale Rd - Scottsdale - AZ
+2042 - Safeway - 3132 E Camelback Rd - Phoenix - AZ
+2044 - Safeway - 260 W Continental Rd - Green Valley - AZ
+2052 - Safeway - 1635 E Cottonwood Ln - Cottonwood - AZ
+2054 - Safeway - 13503 Camino Del Sol - Sun City West - AZ
+2060 - Safeway - 1767 E Prince Rd - Tucson - AZ
+2069 - Safeway - 20 W White Mountain Blvd - Pinetop-Lakeside - AZ
+2075 - Safeway - 121 W Riverside Dr - Parker - AZ
+2076 - Safeway - 203 S Mountain Ave - Springerville - AZ
+2083 - Safeway - 2190 E Fry Blvd - Sierra Vista - AZ
+2097 - Safeway - 4747 E Greenway Rd - Phoenix - AZ
+2390 - Vons - 475 E Windmill Ln - Las Vegas - NV
+2396 - Vons - 1131 E Tropicana Ave - Las Vegas - NV
+2511 - Vons - 2667 E Windmill Pkwy - Henderson - NV
+2613 - Vons - 6450 Sky Pointe Dr - Las Vegas - NV
+2614 - Vons - 7405 S Durango Dr - Las Vegas - NV
+2615 - Vons - 45 E Horizon Ridge Pkwy - Henderson - NV
+2618 - Safeway - 440 N Estrella Pkwy - Goodyear - AZ
+2644 - Safeway - 1855 N Power Rd - Mesa - AZ
+2648 - Safeway - 2125 W Hwy 70 - Thatcher - AZ
+2651 - Safeway - 340 E Mcdowell Rd - Phoenix - AZ
+2676 - Safeway - 9101 E Baseline - Mesa - AZ
+2699 - Safeway - 13828 W Waddell Rd - Surprise - AZ
+2709 - Safeway - 5035 W Baseline Rd - Laveen - AZ
+2716 - Safeway - 4750 E Indian School Rd - Phoenix - AZ
+2799 - Safeway - 28455 N Vistancia Blvd - Peoria - AZ
+2804 - Albertsons - 7975 Blue Diamond Rd - Las Vegas - NV
+2809 - Safeway - 13380 E Mary Ann Cleveland Way - Vail - AZ
+2821 - Safeway - 3800 W Happy Valley Rd - Glendale - AZ
+2835 - Safeway - 3325 N Hunt Hwy - Florence - AZ
+2902 - Albertsons - 1702 E 66th Ave - Gallup - NM
+2922 - Safeway - 4316 S Signal Butte Rd - Mesa - AZ
+2951 - Albertsons - 252 W 32nd St - Yuma - AZ
+2952 - Albertsons - 8035 N 19th Ave - Phoenix - AZ
+2955 - Albertsons - 2785 N Scottsdale Rd - Scottsdale - AZ
+2985 - Albertsons - 18411 N Cave Creek Rd - Phoenix - AZ
+2988 - Albertsons - 5085 N La Canada Dr - Tucson - AZ
+2994 - Albertsons - 5630 N Desert Blvd - El Paso - TX
+2997 - Albertsons - 4060 W Ray Rd - Chandler - AZ
+3016 - Albertsons - 10250 W Charleston Blvd - Las Vegas - NV
+3021 - Albertsons - 10140 W Flamingo Rd - Las Vegas - NV
+3151 - Safeway - 9890 S Estrella Pkwy - Goodyear - AZ
+3173 - Safeway - 40950 N Ironwood Rd - Queen Creek - AZ
+3187 - Safeway - 240 S Hill St - Globe - AZ
+3189 - Safeway - 702 W Hopi Dr - Holbrook - AZ
+3203 - Albertsons - 1350 N Silverbell Rd - Tucson - AZ
+3204 - Albertsons - 1980 Mcculloch Blvd - Lake Havasu City - AZ
+3205 - Albertsons - 575 College Dr - Henderson - NV
+3206 - Albertsons - 190 N Boulder Hwy - Henderson - NV
+3207 - Albertsons - 2910 Bicentennial Pkwy - Henderson - NV
+3322 - Safeway - 10380 E Broadway Blvd - Tucson - AZ
+3333 - Albertsons - 1940 Village Center Circle - Las Vegas - NV
+3334 - Safeway - 3655 W Anthem Way - Anthem - AZ
+3489 - Albertsons - 6730 N Hualapai Way - Las Vegas - NV
+3913 - Albertsons - 2501 N Main St - Las Cruces - NM
+3914 - Albertsons - 1956 Hwy 180 E - Silver City - NM
+3926 - Albertsons - 12970 W Indian School Rd - Litchfield Park - AZ
+3931 - Albertsons - 2378 W 24th St - Yuma - AZ
+3932 - Albertsons - 7022 N Mesa St - El Paso - TX
+3941 - Albertsons - 5040 W Cactus Rd - Glendale - AZ
+3964 - Albertsons - 9595 E Broadway - Tucson - AZ
+3989 - Albertsons - 2727 N Power Rd - Mesa - AZ
+3999 - Albertsons - 10765 Kenworthy - El Paso - TX
+4004 - Albertsons - 4055 S Durango Dr - Las Vegas - NV
+4005 - Albertsons - 3010 W Ann Rd - North Las Vegas - NV
+4006 - Albertsons - 9725 S Maryland Pkwy - Las Vegas - NV
+4009 - Albertsons - 8410 Farm Rd - Las Vegas - NV
+4011 - Albertsons - 1650 N Buffalo Dr - Las Vegas - NV
+4017 - Albertsons - 7271 S Eastern Ave - Las Vegas - NV
+4024 - Albertsons - 2835 S Nellis Blvd - Las Vegas - NV
+4039 - Albertsons - 1300 E Flamingo Rd - Las Vegas - NV
+4091 - Albertsons - 5881 E Charleston Blvd - Las Vegas - NV
+9614 - Safeway - TEST LAB STORE - 477 N Canyons Prky - Livermore - CA
+9789 - Safeway - TEST LAB STORE - 477 N Canyons Prky - Livermore - CA
+9818 - Safeway - TEST LAB STORE - 477 N Canyons Prky - Livermore - CA
+9842 - Safeway - TEST LAB STORE - 477 N Canyons Prky - Livermore - CA
+9852 - Safeway - TEST LAB STORE - 477 N Canyons Prky - Livermore - CA
+9878 - Safeway - TEST LAB STORE - 477 N Canyons Prky - Livermore - CA
