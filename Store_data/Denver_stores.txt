@@ -1,0 +1,123 @@
+8 - Safeway - 7375 E Arapahoe Rd - Englewood - CO
+10 - Safeway - 3851 S Hwy 74 - Evergreen - CO
+17 - Safeway - 201 E Jefferson Ave - Englewood - CO
+27 - Safeway - 5025 S Kipling Pkwy - Littleton - CO
+41 - Safeway - 13111 W Alameda Pkwy - Lakewood - CO
+60 - Albertsons - 1076 CY Ave - Casper - WY
+62 - Albertsons - 2625 E 2nd St - Casper - WY
+64 - Albertsons - 1865 Coffeen Ave - Sheridan - WY
+65 - Albertsons - 3355 E Pershing Blvd - Cheyenne - WY
+66 - Albertsons - 5800 Yellowstone Rd - Cheyenne - WY
+67 - Albertsons - 2610 S Douglas Hwy - Gillette - WY
+137 - Safeway - 12200 E Mississippi Ave - Aurora - CO
+244 - Safeway - 3800 W 44th Ave - Denver - CO
+322 - Safeway - 1701 Jackson St - Golden - CO
+344 - Safeway - 9160 W Colfax Ave - Lakewood - CO
+390 - Safeway - 2425 Miner St - Idaho Springs - CO
+467 - Safeway - 1900 E Richards St - Douglas - WY
+549 - Safeway - 500 E 3rd St - Alliance - NE
+556 - Safeway - 601 Broadway - Scottsbluff - NE
+557 - Safeway - 611 N Spruce St - Ogallala - NE
+581 - Safeway - 2120 Mt Rushmore Rd - Rapid City - SD
+583 - Safeway - 1606 North Ave - Spearfish - SD
+617 - Safeway - 112 S Spruce St - Gunnison - CO
+631 - Safeway - 2131 N Frontage Rd W - Vail - CO
+637 - Safeway - 37500 E US Hwy 40 - Steamboat Springs - CO
+683 - Safeway - 730 W Main St - Farmington - NM
+722 - Safeway - 457 W Main St - Trinidad - CO
+801 - Albertsons - 311 W College Dr - Durango - CO
+803 - Safeway - 7055 Austin Bluffs Pkwy - Colorado Springs - CO
+804 - Safeway - 1451 W Eisenhower Blvd - Loveland - CO
+812 - Safeway - 2210 N Wahsatch Ave - Colorado Springs - CO
+816 - Albertsons - 1601 Hwy 50 W - Pueblo - CO
+824 - Albertsons - 4909 E Main St - Farmington - NM
+835 - Safeway - 5060 N Academy Blvd - Colorado Springs - CO
+836 - Safeway - 1008 Summit Blvd - Frisco - CO
+839 - Safeway - 8434 S Kipling Pkwy - Littleton - CO
+840 - Safeway - 8750 N Union Blvd - Colorado Springs - CO
+841 - Safeway - 1200 S Buckley Rd - Aurora - CO
+862 - Safeway - 3657 S College Ave - Fort Collins - CO
+876 - Safeway - 731 S Lemay Ave - Fort Collins - CO
+879 - Safeway - 4405 Centennial Blvd - Colorado Springs - CO
+881 - Safeway - 500 E 120th Ave - Northglenn - CO
+885 - Safeway - 323 S Broadway - Denver - CO
+892 - Safeway - 3840 E 104th Ave - Thornton - CO
+899 - Safeway - 6100 S Gun Club Rd - Aurora - CO
+914 - Safeway - 2321 W Eisenhower Blvd - Loveland - CO
+920 - Safeway - 451 E Wonderview Ave - Estes Park - CO
+1038 - Safeway - 1653 S Colorado Blvd - Denver - CO
+1045 - Safeway - 1300 Dexter St - Fort Lupton - CO
+1116 - Safeway - 1050 Ken Pratt Blvd - Longmont - CO
+1248 - Safeway - 2660 N Federal Blvd - Denver - CO
+1267 - Safeway - 6460 E Yale Ave - Denver - CO
+1286 - Safeway - 3275 W Colorado Ave - Colorado Springs - CO
+1438 - Safeway - 415 N Main Ave - Aztec - NM
+1440 - Safeway - 624 Hwy 105 - Monument - CO
+1446 - Safeway - 11051 S Parker Rd - Parker - CO
+1463 - Safeway - 2150 S Downing St - Denver - CO
+1466 - Safeway - 1121 N Circle Dr - Colorado Springs - CO
+1479 - Safeway - 3900 Wadsworth Blvd - Wheat Ridge - CO
+1480 - Safeway - 9255 S Broadway - Highlands Ranch - CO
+1499 - Safeway - 2890 N Powers - Colorado Springs - CO
+1532 - Safeway - 220 S Elizabeth St - Elizabeth - CO
+1548 - Safeway - 9229 E Lincoln Ave - Lone Tree - CO
+1552 - Safeway - 1426 E Harmony Rd - Fort Collins - CO
+1554 - Safeway - 730 Mountain View Rd - Rapid City - SD
+1568 - Safeway - 40 County Rd 804 - Fraser - CO
+1577 - Safeway - 6520 S Academy Blvd - Colorado Springs - CO
+1578 - Safeway - 1101 E US Hwy 24 - Woodland Park - CO
+1587 - Safeway - 7353 Federal Blvd - Westminster - CO
+1599 - Safeway - 12442 W Ken Caryl Ave - Littleton - CO
+1614 - Safeway - 560 Corona St - Denver - CO
+1615 - Safeway - 3325 28th St - Boulder - CO
+1635 - Safeway - 10300 Federal Blvd - Federal Heights - CO
+1644 - Safeway - 7655 Mclaughlin Rd - Falcon - CO
+1656 - Safeway - 1601 Coalton Rd - Superior - CO
+1667 - Safeway - 3333 Arapahoe Rd N #B - Erie - CO
+1681 - Safeway - 1301 Main St - Alamosa - CO
+1721 - Safeway - 906 E Olive St - Lamar - CO
+1760 - Safeway - 1017 N Market Plaza - Pueblo - CO
+1791 - Safeway - 1535 Main St - Windsor - CO
+1792 - Safeway - 1425 S Murray Blvd - Colorado Springs - CO
+1828 - Safeway - 8134 Colorado Blvd - Firestone - CO
+1873 - Safeway - 771 Thornton Pkwy - Thornton - CO
+1877 - Safeway - 880 S Perry St - Castle Rock - CO
+1892 - Safeway - 1580 E Main St - Cortez - CO
+1928 - Safeway - 18730 E Hampden Ave - Aurora - CO
+1975 - Safeway - 6925 Mesa Ridge Pkwy - Fountain - CO
+1998 - Safeway - 7561 W 80th Ave - Arvada - CO
+2004 - Safeway - 3540 E Main St - Farmington - NM
+2246 - Safeway - 757 E 20th Ave - Denver - CO
+2341 - Safeway - 620 W Platte Ave - Fort Morgan - CO
+2342 - Safeway - 11088 W Jewell - Lakewood - CO
+2462 - Safeway - 1307 16th St - Wheatland - WY
+2466 - Safeway - 554 N 3rd St - Laramie - WY
+2520 - Safeway - 111 18th St - Burlington - CO
+2555 - Safeway - 1944 Illinois St - Sidney - NE
+2563 - Safeway - 230 Morehead St - Chadron - NE
+2612 - Safeway - 1677 S Havana St - Aurora - CO
+2624 - Safeway - 3602 W 144th Ave - Broomfield - CO
+2666 - Safeway - 4548 Centerplace Dr - Greeley - CO
+2667 - Safeway - 700 S Greeley Hwy - Cheyenne - WY
+2714 - Safeway - 6220 E 14th Ave - Denver - CO
+2722 - Safeway - 8355 N Rampart Range Rd - Littleton - CO
+2791 - Safeway - 181 W Mineral Ave - Littleton - CO
+2792 - Safeway - 27152 Main St - Conifer - CO
+2810 - Safeway - 1200 2nd Ave - Monte Vista - CO
+2812 - Safeway - 910 W Cherry St - Louisville - CO
+2816 - Safeway - 1920 S Nevada Ave - Colorado Springs - CO
+2817 - Safeway - 232 G St - Salida - CO
+2824 - Safeway - 1900 N Poplar Way - Leadville - CO
+2839 - Safeway - 840 Village Ctr Dr - Colorado Springs - CO
+2910 - Safeway - 1632 Hover Rd - Longmont - CO
+2911 - Safeway - 2798 Arapahoe Ave - Boulder - CO
+2913 - Safeway - 2160 W Drake Rd Unit 6 - Fort Collins - CO
+2915 - Safeway - 860 Cleveland Ave - Loveland - CO
+2917 - Safeway - 1605 Bridge St - Brighton - CO
+2918 - Safeway - 3526 W 10th St - Greeley - CO
+2919 - Safeway - 4800 E Baseline Rd - Boulder - CO
+3723 - Safeway - 315 W 2nd St - La Junta - CO
+3727 - Safeway - 222 W 7th St - Walsenburg - CO
+3728 - Safeway - 1414 Main St - Canon City - CO
+3729 - Safeway - 1231 S Prairie Ave - Pueblo - CO
+3836 - Safeway - 200 Quebec St #400 - Denver - CO

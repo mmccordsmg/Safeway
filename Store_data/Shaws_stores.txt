@@ -1,0 +1,150 @@
+57 - Shaws - 175 High St - Ellsworth - ME
+113 - Shaws - 300 Main St - Nashua - NH
+117 - Shaws - 570 Shelburne Rd - Burlington - VT
+121 - Shaws - 2 Main St - Montpelier - VT
+163 - Star Market - 49 White St - Cambridge - MA
+222 - Shaws - 97 E Main St - Wilmington - VT
+326 - Shaws - 27 Mad River Canoe Rd - Waitsfield - VT
+418 - Shaws - 780 S Main St - Sharon - MA
+426 - Star Market - 795 Providence Hwy - Dedham - MA
+428 - Shaws - 95 Washington St - Canton - MA
+431 - Shaws - 390 West St - Mansfield - MA
+440 - Shaws - 35 Columbia Rd - Hanover - MA
+441 - Shaws - 320 Warwick Ave - Warwick - RI
+484 - Shaws - 1 Orchard View Dr - Londonderry - NH
+495 - Shaws - 180 A Cambridge St - Burlington - MA
+529 - Shaws - 127 VT Hwy 12s - Randolph - VT
+530 - Shaws - 64 Equinox Terrace - Manchester Center - VT
+553 - Shaws - 1 Chandler Dr - Bath - ME
+602 - Star Market - 53 Huntington Ave - Boston - MA
+603 - Shaws - 137 Tea Ticket Hwy - East Falmouth - MA
+604 - Star Market - 4 River St - Dorchester - MA
+608 - Shaws - 200 Lower Main St - Freeport - ME
+610 - Shaws - 4340 US Rt 5 - Derby - VT
+615 - Shaws - 66 Mountain View - Colchester - VT
+616 - Shaws - 160 Paine Turnpike N - Berlin - VT
+619 - Shaws - 15 State Rd - Dartmouth - MA
+621 - Shaws - 100 Shaws Ln - Stratham - NH
+622 - Shaws - 68 Stafford St - Worcester - MA
+623 - Shaws - 31 Main St - Westbrook - ME
+624 - Shaws - 14 W Boylston St - Worcester - MA
+625 - Shaws - 8 Chapel View Blvd - Cranston - RI
+627 - Shaws - 760 A Boston Rd - Groton - MA
+628 - Shaws - 147 Bath Rd - Brunswick - ME
+629 - Shaws - 1073 W Main St - Dover Foxcroft - ME
+645 - Star Market - 1 Boylston St - Chestnut Hill - MA
+649 - Shaws - 820 Waterbury Stowe Rd - Waterbury - VT
+674 - Shaws - 1175 Main St - Clinton - MA
+677 - Shaws - 93 Prospect St - Milford - MA
+678 - Shaws - 7 Continental Blvd - Merrimack - NH
+686 - Shaws - 43 Indian Rock Rd - Windham - NH
+690 - Shaws - 9 West Rd - Orleans - MA
+811 - Shaws - 20 D'amante Dr - Concord - NH
+1208 - Shaws - 246 Border St - East Boston - MA
+1219 - Shaws - 8 Washington St - Middlebury - VT
+1323 - Shaws - 55 Depot St - Poultney - VT
+1324 - Shaws - 654 Route 22A North - Fair Haven - VT
+1402 - Shaws - 1400 Lakeshore Dr - Gilford - NH
+1404 - Shaws - 125 Pearl St - Braintree - MA
+1409 - Shaws - 476 Liberty St - Hanson - MA
+1411 - Shaws - 4171 N Main St - Fall River - MA
+1412 - Shaws - 125 Robert Toner Blvd - North Attleboro - MA
+1414 - Shaws - 230 Main St - Medfield - MA
+1416 - Shaws - 121 Memorial Pkwy - Randolph - MA
+1419 - Shaws - 301 Pond St - Ashland - MA
+1420 - Shaws - 300 New State Hwy - Raynham - MA
+1429 - Shaws - 641 Belmont St - Brockton - MA
+1430 - Shaws - 65 Main St - Medway - MA
+1432 - Shaws - 1177 Providence Rd - Whitinsville - MA
+1435 - Shaws - 186 County Rd - Barrington - RI
+1442 - Shaws - 71 E Main Rd - Middletown - RI
+1497 - Shaws - 130 River St - Waltham - MA
+1598 - Shaws - 1070 Iyannough Rd - Hyannis - MA
+1609 - Shaws - 670 Bath Rd - Wiscasset - ME
+1632 - Shaws - 100 N Main St - Carver - MA
+2190 - Shaws - 96 Daniel Webster Hwy - Belmont - NH
+2325 - Shaws - 751 Maple St - Stowe - VT
+2403 - Shaws - 1150 Eastman Rd - Center Conway - NH
+2408 - Shaws - 690 Depot St - North Easton - MA
+2438 - Shaws - 160 Old Tower Hill Rd - Wakefield - RI
+2445 - Shaws - 739 Chief Justice Cushing Hwy - Cohasset - MA
+2470 - Shaws - 50 Boston Turnpike Rd - Shrewsbury - MA
+2472 - Shaws - 178 Main St - Sturbridge - MA
+2478 - Shaws - 114-128 Essex Center Dr - Peabody - MA
+2479 - Shaws - 851 Central Ave - Dover - NH
+2489 - Shaws - 20 Fort Eddy Rd - Concord - NH
+2491 - Shaws - 45 Storey Ave - Newburyport - MA
+2492 - Shaws - 586 Nashua St - Milford - NH
+2493 - Shaws - 11 Traders Way - Salem - MA
+2518 - Shaws - 71 Boxwood St - Williston - VT
+2527 - Shaws - 213 Main St - Ludlow - VT
+2531 - Shaws - 2 Chester Rd - Springfield - VT
+2532 - Shaws - 199 Main St - Lancaster - NH
+2535 - Shaws - 15 Forest St - Woodsville - NH
+2536 - Shaws - 115c Monkton Rd - Vergennes - VT
+2538 - Shaws - 770 Roosevelt Trail - Windham - ME
+2541 - Shaws - 91 Auburn St - Portland - ME
+2547 - Shaws - 417 Payne Rd - Scarborough - ME
+2550 - Shaws - 600 Center St - Auburn - ME
+2552 - Shaws - 150 Western Ave - Augusta - ME
+2565 - Star Market - 699 Mt Auburn St - Cambridge - MA
+2569 - Star Market - 1070 Lexington St - Waltham - MA
+2571 - Shaws - 509 Boston Post Rd - Sudbury - MA
+2573 - Star Market - 130 Granite St - Quincy - MA
+2575 - Star Market - 275 Beacon St - Somerville - MA
+2576 - Star Market - 33 Kilmarnock St - Boston - MA
+2579 - Shaws - 1377 Hyde Park Ave - Hyde Park - MA
+2583 - Star Market - 535 Trapelo Rd - Belmont - MA
+2584 - Shaws - 155 Great Rd - Stow - MA
+2585 - Shaws - 2260 State Rd - Plymouth - MA
+2594 - Star Market - 1 Snow Rd - Marshfield - MA
+2601 - Shaws - 625 Meadow St - Littleton - NH
+2626 - Shaws - 4 Scammon St Suite 10 - Saco - ME
+2653 - Shaws - 127 Marion Rd - Wareham - MA
+3087 - Shaws - 201 Washington St - Hudson - MA
+3413 - Shaws - 610 Middle St - Weymouth - MA
+3434 - Shaws - 1050 Willet Ave - Riverside - RI
+3483 - Shaws - 55 Crystal Ave - Derry - NH
+3505 - Shaws - 570 Daniel Webster Hwy - Merrimack - NH
+3507 - Shaws - 34 Essex St - Melrose - MA
+3510 - Shaws - 213 Daniel Webster Hwy - Nashua - NH
+3528 - Shaws - 7 Prince Ln - Bristol - VT
+3533 - Shaws - 32 Ames Plaza Ln #441 - Walpole - NH
+3544 - Shaws - 180 Waterman Dr - South Portland - ME
+3548 - Shaws - 235 Camden St - Rockland - ME
+3551 - Shaws - 251 Kennedy Memorial Dr - Waterville - ME
+3561 - Star Market - 33 Austin St - Newtonville - MA
+3566 - Star Market - 1717 Beacon St - Brookline - MA
+3567 - Shaws - 134 Nahatan St - Norwood - MA
+3577 - Star Market - 75 Spring St - West Roxbury - MA
+3580 - Star Market - 14 Mcgrath Hwy - Somerville - MA
+3581 - Shaws - 255 E Central St - Franklin - MA
+3588 - Star Market - 1065 Commonwealth Ave - Boston - MA
+3590 - Shaws - 127 Eastern Ave - Gloucester - MA
+3591 - Shaws - 7 Railroad Ave - Gloucester - MA
+3648 - Shaws - 134 Water St - Wakefield - MA
+3669 - Shaws - 4 Plaistow Rd - Plaistow - NH
+3687 - Shaws - 585 Taunton Ave - East Providence - RI
+3692 - Shaws - 1108 State Road - South Yarmouth - MA
+3696 - Star Market - 90 Causeway St - Boston - MA
+4407 - Shaws - 715 Crescent St - Brockton - MA
+4443 - Shaws - 15 Smithfield Rd - North Providence - RI
+4471 - Shaws - 368 Southbridge St - Auburn - MA
+4486 - Shaws - 1328 Hooksett Rd - Hooksett - NH
+4496 - Shaws - 71 Dodge St - Beverly - MA
+4512 - Shaws - 33 Lafayette Rd Unit 4 - North Hampton - NH
+4514 - Shaws - 276 W Main St - Hillsborough - NH
+4534 - Shaws - 48 John Stark Hwy - Newport - NH
+4543 - Shaws - 1364 Congress St - Portland - ME
+4555 - Shaws - 10 Benning Dr - West Lebanon - NH
+4556 - Shaws - 353 Main St - Bangor - ME
+4559 - Shaws - 27 E Ave - Lewiston - ME
+4560 - Shaws - 1364 Main St - Sanford - ME
+4568 - Star Market - 2040 Commonwealth Ave - Auburndale - MA
+4572 - Star Market - 370 Western Ave - Brighton - MA
+4587 - Star Market - 45 Morrissey Blvd - Dorchester - MA
+4592 - Shaws - 146 High St - Ipswich - MA
+4595 - Shaws - 625 W Main St - Hyannis - MA
+4596 - Shaws - 18 Sisson Rd - Harwich Port - MA
+4651 - Shaws - 251 US Hwy 1 - Falmouth - ME
+4694 - Shaws - 135 Dublin Rd - Peterborough - NH
