@@ -6,8 +6,8 @@ import uuid
 from time import sleep
 
 session = requests.Session()
-#session.verify = False
-#session.proxies = { 'https': 'http://127.0.0.1:8080' }
+session.verify = False
+session.proxies = { 'https': 'http://127.0.0.1:8080' }
 
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
@@ -144,7 +144,7 @@ def safeway_get_coupons(mystore, token):
 	return (outcoupons)
 
 
-def safeway_get_rewards(mystore, token):
+def safeway_get_available_rewards(mystore, token):
 	global session
 	session.headers.update(
 		{
@@ -167,6 +167,38 @@ def safeway_get_rewards(mystore, token):
 	cookies = {'swyConsumerDirectoryPro': token}
 	r=session.get(f'https://nimbus.safeway.com/rewards/service/gallery/offer/gr?storeId={mystore}', cookies=cookies)
 	deals = r.json()["grOffers"]
+	if deals:
+		#print(deals)
+		outcoupons = []
+		for deal in deals:
+			if deal["status"] == 'U':
+				outcoupons.append(deal)
+	#print (outcoupons)
+	return (outcoupons)
+
+def safeway_get_clipped_rewards(mystore, token):
+	global session
+	session.headers.update(
+		{
+				"User-Agent": "Safeway/7957 CFNetwork/1220.1 Darwin/20.3.0",
+				"X-SWY_VERSION": "1.1",
+				"Content-Type": "application/json",
+				"Accept": "*/*",
+				"Authorization": "Bearer %s" % token,
+				"X-SWY_MOBILE_VERSION": "1.0",
+				"Accept-Encoding": "gzip, deflate, br",
+				"X-SWY_BANNER": "safeway",
+				"ADRUM": "isAjax:true",
+				"X-SWY_API_KEY": "emmd",
+				"ADRUM_1": "isMobile:true",
+				"X-SWY-APPLICATION-TYPE": "native-mobile"
+		}
+	)
+	session.headers.update({'Ocp-Apim-Subscription-Key': ''})
+	#print(mystore)
+	cookies = {'swyConsumerDirectoryPro': token}
+	r=session.get(f'https://www.acmemarkets.com/abs/pub/web/j4u/api/grocery/rewards/mylist?storeId={mystore}', cookies=cookies)
+	deals = r.json()["myGroceryRewardsList"]
 	if deals:
 		#print(deals)
 		outcoupons = []
@@ -247,9 +279,10 @@ def safeway_clip_rewards(rewards, mystore, token):
 			reward = rewards.pop()
 			toclip.append(
 				{
-						"clipType": "D",
+						"clipType": "C",
 						"itemId": reward["offerId"],
-						"itemType": reward["offerPgm"]
+						"itemType": reward["offerPgm"],
+						"vndrBannerCd": None
 				})
 			i+=1
 		payload={"items": toclip}
@@ -291,6 +324,7 @@ def safeway_unclip_rewards(rewards, mystore, token):
 			toclip.append(
 				{
 						"id": reward["offerId"],
+						"checked": "true",
 						"itemType": reward["offerPgm"],
 						"storeId": mystore
 				}
